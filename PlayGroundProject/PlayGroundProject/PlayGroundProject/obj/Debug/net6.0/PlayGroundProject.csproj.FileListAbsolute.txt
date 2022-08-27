@@ -1,0 +1,15 @@
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\bin\Debug\net6.0\PlayGroundProject.exe
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\bin\Debug\net6.0\PlayGroundProject.deps.json
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\bin\Debug\net6.0\PlayGroundProject.runtimeconfig.json
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\bin\Debug\net6.0\PlayGroundProject.dll
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\bin\Debug\net6.0\PlayGroundProject.pdb
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\PlayGroundProject.csproj.AssemblyReference.cache
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\PlayGroundProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\PlayGroundProject.AssemblyInfoInputs.cache
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\PlayGroundProject.AssemblyInfo.cs
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\PlayGroundProject.csproj.CoreCompileInputs.cache
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\PlayGroundProject.dll
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\refint\PlayGroundProject.dll
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\PlayGroundProject.pdb
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\PlayGroundProject.genruntimeconfig.cache
+C:\Users\Panaite Cosmin\source\repos\PlayGroundProject\PlayGroundProject\obj\Debug\net6.0\ref\PlayGroundProject.dll
